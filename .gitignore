@@ -1,0 +1,44 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local data and generated output
+dataset/
+dataset_*/
+overlay_review/
+ppo_models/
+runs/
+tb_logs/
+*.log
+crash_report.txt
+
+# Large archives and model weights (review distribution separately)
+*.zip
+*.7z
+*.rar
+*.pt
+*.pth
+*.onnx
+
+# Local secrets and settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+secrets.json
+
+# Editor / OS files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+*.bak.*
