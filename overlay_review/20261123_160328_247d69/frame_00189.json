@@ -1,0 +1,11 @@
+{
+  "source": "live_game_client",
+  "review_required": true,
+  "image_size": [
+    1920,
+    1080
+  ],
+  "boxes": [],
+  "assigned_class_for_all_green": null,
+  "warning": "Color indicates visibility only; team unknown. Red boxes must not label invisible enemies."
+}

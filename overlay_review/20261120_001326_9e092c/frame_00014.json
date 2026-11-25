@@ -1,0 +1,40 @@
+{
+  "source": "live_game_client",
+  "review_required": true,
+  "image_size": [
+    1024,
+    768
+  ],
+  "boxes": [
+    {
+      "xyxy": [
+        491,
+        353,
+        521,
+        410
+      ],
+      "color": "green",
+      "edge_coverage": 0.9649122807017544,
+      "class_id": null,
+      "review_required": true,
+      "possible_nameplate": false,
+      "temporal_confirmed": false
+    },
+    {
+      "xyxy": [
+        610,
+        371,
+        668,
+        484
+      ],
+      "color": "green",
+      "edge_coverage": 0.9137931034482759,
+      "class_id": null,
+      "review_required": true,
+      "possible_nameplate": false,
+      "temporal_confirmed": false
+    }
+  ],
+  "assigned_class_for_all_green": null,
+  "warning": "Color indicates visibility only; team unknown. Red boxes must not label invisible enemies."
+}

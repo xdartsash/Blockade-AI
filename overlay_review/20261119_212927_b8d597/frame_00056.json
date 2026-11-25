@@ -1,0 +1,82 @@
+{
+  "source": "live_game_client",
+  "review_required": true,
+  "image_size": [
+    1024,
+    768
+  ],
+  "boxes": [
+    {
+      "xyxy": [
+        325,
+        368,
+        433,
+        581
+      ],
+      "color": "green",
+      "edge_coverage": 1.0,
+      "class_id": null,
+      "review_required": true,
+      "possible_nameplate": false,
+      "temporal_confirmed": false
+    },
+    {
+      "xyxy": [
+        500,
+        308,
+        518,
+        342
+      ],
+      "color": "red",
+      "edge_coverage": 1.0,
+      "class_id": null,
+      "review_required": true,
+      "possible_nameplate": false,
+      "temporal_confirmed": false
+    },
+    {
+      "xyxy": [
+        628,
+        302,
+        645,
+        333
+      ],
+      "color": "red",
+      "edge_coverage": 1.0,
+      "class_id": null,
+      "review_required": true,
+      "possible_nameplate": false,
+      "temporal_confirmed": false
+    },
+    {
+      "xyxy": [
+        762,
+        297,
+        778,
+        327
+      ],
+      "color": "red",
+      "edge_coverage": 1.0,
+      "class_id": null,
+      "review_required": true,
+      "possible_nameplate": false,
+      "temporal_confirmed": false
+    },
+    {
+      "xyxy": [
+        767,
+        392,
+        782,
+        420
+      ],
+      "color": "red",
+      "edge_coverage": 1.0,
+      "class_id": null,
+      "review_required": true,
+      "possible_nameplate": false,
+      "temporal_confirmed": false
+    }
+  ],
+  "assigned_class_for_all_green": null,
+  "warning": "Color indicates visibility only; team unknown. Red boxes must not label invisible enemies."
+}

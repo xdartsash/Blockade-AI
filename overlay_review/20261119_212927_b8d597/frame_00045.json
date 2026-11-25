@@ -1,0 +1,110 @@
+{
+  "source": "live_game_client",
+  "review_required": true,
+  "image_size": [
+    1024,
+    768
+  ],
+  "boxes": [
+    {
+      "xyxy": [
+        53,
+        335,
+        98,
+        423
+      ],
+      "color": "red",
+      "edge_coverage": 1.0,
+      "class_id": null,
+      "review_required": true,
+      "possible_nameplate": false,
+      "temporal_confirmed": false
+    },
+    {
+      "xyxy": [
+        378,
+        413,
+        408,
+        472
+      ],
+      "color": "red",
+      "edge_coverage": 0.9,
+      "class_id": null,
+      "review_required": true,
+      "possible_nameplate": false,
+      "temporal_confirmed": false
+    },
+    {
+      "xyxy": [
+        419,
+        516,
+        436,
+        548
+      ],
+      "color": "red",
+      "edge_coverage": 1.0,
+      "class_id": null,
+      "review_required": true,
+      "possible_nameplate": false,
+      "temporal_confirmed": false
+    },
+    {
+      "xyxy": [
+        542,
+        364,
+        576,
+        429
+      ],
+      "color": "green",
+      "edge_coverage": 1.0,
+      "class_id": null,
+      "review_required": true,
+      "possible_nameplate": false,
+      "temporal_confirmed": false
+    },
+    {
+      "xyxy": [
+        671,
+        497,
+        684,
+        521
+      ],
+      "color": "red",
+      "edge_coverage": 1.0,
+      "class_id": null,
+      "review_required": true,
+      "possible_nameplate": false,
+      "temporal_confirmed": false
+    },
+    {
+      "xyxy": [
+        700,
+        534,
+        714,
+        560
+      ],
+      "color": "red",
+      "edge_coverage": 1.0,
+      "class_id": null,
+      "review_required": true,
+      "possible_nameplate": false,
+      "temporal_confirmed": false
+    },
+    {
+      "xyxy": [
+        846,
+        551,
+        859,
+        575
+      ],
+      "color": "red",
+      "edge_coverage": 1.0,
+      "class_id": null,
+      "review_required": true,
+      "possible_nameplate": false,
+      "temporal_confirmed": false
+    }
+  ],
+  "assigned_class_for_all_green": null,
+  "warning": "Color indicates visibility only; team unknown. Red boxes must not label invisible enemies."
+}
